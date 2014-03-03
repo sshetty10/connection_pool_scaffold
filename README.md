@@ -1,10 +1,10 @@
-# OPOWER Connection Pool Homework
+# Opower Connection Pool Homework
 
 This is a very basic scaffold project for you to work in for the connection pool homework assignment
 
 ## Instructions
 
-Please clone the repository and deliver your solution via an archive format of your choice, including all project files, within 1 calendar week.
+Please clone the repository and deliver your solution via email in an archive format of your choice, including all project files, within 1 calendar week.  _Do not submit your solution via pull request to this repository._
 
 Write a connection pool class that implements this interface (it is also located in `src/main/java/com/opower/connectionpool/ConnectionPool.java`):
 
@@ -13,7 +13,7 @@ Write a connection pool class that implements this interface (it is also located
         void releaseConnection(java.sql.Connection con) throws java.sql.SQLException;
     }
 
-While we know there are many production-ready implementations of connection pools, this assignment allows for a variety of solutions to a real-world problem.  Your solution will be reviewed by the engineers you would be working with if you joined OPOWER.  We are interested in seeing your real-world design, coding, and testing skills.
+While we know there are many production-ready implementations of connection pools, this assignment allows for a variety of solutions to a real-world problem.  Your solution will be reviewed by the engineers you would be working with if you joined Opower.  We are interested in seeing your real-world design, coding, and testing skills.
 
 ## Using this scaffold
 
